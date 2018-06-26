@@ -1,2 +1,3 @@
- * 存放博客的评论数据
+ * 存放博客GitTalk的评论数据
  * [制作github page](https://pages.github.com/)
+ 
