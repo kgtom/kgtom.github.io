@@ -1,2 +1,2 @@
- * 博客的评论数据
- * 制作github page :https://pages.github.com/
+ * 存放博客的评论数据
+ * [制作github page](https://pages.github.com/)
