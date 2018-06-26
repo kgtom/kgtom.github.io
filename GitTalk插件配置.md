@@ -15,6 +15,9 @@
 		repo: `kgtom.github.io`,
 		owner: 'kgtom',
 		admin: ['kgtom'],
+		id: window.location.pathname,
+       		labels: ['Gitalk'],
+       		title: document.title,
 		
     
     });
@@ -24,8 +27,11 @@
 
 ~~~
 其中：
-clientID、clientSecret [点击](https://github.com/settings/applications/new)申请即可。
+* clientID、clientSecret [点击](https://github.com/settings/applications/new)申请即可。
+* id:可以获取url 各个部分
+* labels：自定义
+
+更多配置[官方github](https://github.com/gitalk/gitalk#install)
 
 
->reference:
-https://github.com/gitalk/gitalk#install
+
